@@ -1,0 +1,201 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+    
+}
+
+
+body {
+    background-image: url(screen.jpg);
+    
+}
+
+.container {
+    width: 1900px;
+    height: 44px;
+    margin: 0 auto;
+    margin-left: -350px;
+    
+}
+
+header {
+    padding: 15px 0;
+}
+
+
+.container nav {
+    display: flex;
+    justify-content: center;
+}
+
+
+.container nav ul {
+    display: inline-flex;
+    
+}
+
+
+.container nav ul li {
+    float: left;
+}
+
+
+
+.container_2 {
+    margin-left: 350px;
+}
+
+
+.wrapper {
+    background-color: #000000;
+    width: 1920px;
+    height: 44px;
+    color: white;
+
+
+}
+
+
+
+.container_3 {
+    width: 1500px;
+    height: 44px;
+    margin: 0 auto;
+    
+    
+    
+    
+    
+}
+
+a {
+    color:white;
+}
+
+
+
+.container_3 {
+    padding: 15px 0;
+}
+
+
+
+.container_3 .logo nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+.container_3 nav ul {
+    display: inline-flex;
+    
+}
+
+
+ul {
+    margin-left: 760px;
+    
+    
+}
+
+ul li {
+    margin-left: 40px;
+    
+}
+
+
+.wrapper_2 {
+    background-color: #0F0F0F;
+    width: 1920px;
+    height: 80px;
+    color: white;
+    
+
+
+}
+
+
+span .logo {
+    width: 104px;
+    height: 49px;
+    
+    
+
+
+}
+
+
+
+.img {
+    width: 22px;
+height: 22px;
+display: flex;
+margin-left: 20px;
+
+
+
+}
+
+
+.img_2 {
+    margin-left: 20px;
+}
+
+
+.main_1 {
+    color: white;
+
+}
+
+
+.border{
+    margin-left: 700px;
+    margin-top: 150px;
+    border: 5px solid white;
+    width: 320px;
+    height: 320px;
+    top: 284px;
+    left: 800px;
+    gap: 0px;
+    border: 4px 0px 0px 0px;
+    opacity: 0px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+
+}
+
+.porten {
+    width: 185px;
+    height: 86px;
+    top: 377px;
+    left: 867px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+
+.line {
+    width: 179px;
+    border: 2px solid white;
+    margin-left: 65px;
+
+
+}
+
+
+h1 {
+    margin-left: 10px;
+}
+
+
+.border_2{
+    margin-top: 90px;
+}
